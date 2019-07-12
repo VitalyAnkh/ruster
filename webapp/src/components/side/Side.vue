@@ -2,14 +2,14 @@
     <div id="side">
         <main>
             <div id="title">
-                <span style="font-size: 1.8rem;">Rust</span>
-                <span style="font-size: 1.4rem;">中文</span>
+                <span style="font-size: 1.8rem;">明湖</span>
+                <span style="font-size: 1.4rem;">BBS</span>
             </div>
             <div id="line"></div>
-            <p>支持Rust中文：详见
-                <span style="font-weight:bold;"><a href="/a/office/theme/20" target="_blank"> 共建Rust中文宣告 </a></span></p>
+            <p>支持明湖BBS：详见
+                <span style="font-weight:bold;"><a href="/a/office/theme/20" target="_blank"> 共建明湖BBS宣告 </a></span></p>
             
-            <p>本站<a href="https://github.com/rustlang-cn/ruster" target="_blank"><strong>源码</strong></a>开源.</p>
+            <p>本站<a href="https://github.com/VitalyAnkh/ruster" target="_blank"><strong>源码</strong></a>开源.</p>
         </main>
     </div>
 </template>

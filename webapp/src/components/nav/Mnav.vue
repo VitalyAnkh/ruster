@@ -4,7 +4,7 @@
       <div id="lnav">
         <div id="line"></div>
         <div id="left">
-          <a id="front" href="/"><img src="../../../static/imgs/rustlang-cn-x.png"/></a>
+          <a id="front" href="/"><img src="../../../static/imgs/bjtu-x.jpg"/></a>
           <!-- <a id="name" href="/">Rust</a> -->
           <span id="dlnav">
             <a id="tail" href="https://rustlang-cn.org" target="_blank">文档</a>

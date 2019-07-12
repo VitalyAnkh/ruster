@@ -1,6 +1,6 @@
 <template>
     <div id="themeinfo" v-if="signin_user != ''">
-      <div id="show"><img src="../../../static/imgs/rust.png" /></div>
+      <div id="show"><img src="../../../static/imgs/bjtu.jpg" /></div>
       <div id="title">
           <ul>
               <li><a >用户</a></li>
