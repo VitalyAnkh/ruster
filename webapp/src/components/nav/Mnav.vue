@@ -7,8 +7,8 @@
           <a id="front" href="/"><img src="../../../static/imgs/bjtu-x.jpg"/></a>
           <!-- <a id="name" href="/">Rust</a> -->
           <span id="dlnav">
-            <a id="tail" href="https://rustlang-cn.org" target="_blank">文档</a>
-            <a id="tail" href="https://riot.im/app/#/room/#rustlang-cn:matrix.org" target="_blank">聊天室</a>
+            <a id="tail" href="https://bjtu.edu.cn" target="_blank">交大主页</a>
+            <a id="tail" href="https://mis.bjtu.edu.cn" target="_blank">教务系统</a>
             <!-- <a id="tail" href="">search</a> -->
           </span>
         </div>
